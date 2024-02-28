@@ -22,11 +22,12 @@
   <img src="https://cdn4.quintetsolutions.com/img/services/solutions/mysql_workbench_service_provider_india.jpg" height="100" alt="html5 logo"  />
   <img width="50" />
   </div>
-------
+
+***
 
 ## SQL-Workbench :
 
-- Description
+- **Description**
   - MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more. MySQL Workbench is available on Windows, Linux and Mac OS X.
   
 - **Design**
