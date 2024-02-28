@@ -6,6 +6,23 @@
 
 - Click on the MYSQL TASK-2.docx file above to `Download` and view the file in which I've attached the `EER Screenshot` at the end of the document file.
 - You can also view the `EER Diagram` separately by clicking the `MySQl_Task_2_ERR.mwb` file.
+------
+
+## <h2 align="left">Programming Language Used :</h2>
+
+<div align="left">
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="100" alt="html5 logo"  />
+  <img width="50" />
+  </div>
+------
+
+## <h2 align="left">Programming Tool Used :</h2>
+
+<div align="left">
+  <img src="https://cdn4.quintetsolutions.com/img/services/solutions/mysql_workbench_service_provider_india.jpg" height="100" alt="html5 logo"  />
+  <img width="50" />
+  </div>
+------
 
 ## SQL-Workbench :
 
@@ -25,20 +42,4 @@
 
 - **Database Migration**
   - MySQL Workbench now provides a complete, easy to use solution for migrating Microsoft SQL Server, Microsoft Access, Sybase ASE, PostreSQL, and other RDBMS tables, objects and data to MySQL. Developers and DBAs can quickly and easily convert existing applications to run on MySQL both on Windows and other platforms. Migration also supports migrating from earlier versions of MySQL to the latest releases.
-
-### <h2 align="left">Programming Language Used :</h2>
-
-<div align="left">
-  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="100" alt="html5 logo"  />
-  <img width="50" />
-  </div>
-
-### <h2 align="left">Programming Tool Used :</h2>
-
-<div align="left">
-  <img src="https://cdn4.quintetsolutions.com/img/services/solutions/mysql_workbench_service_provider_india.jpg" height="100" alt="html5 logo"  />
-  <img width="50" />
-  </div>
-
-
 ------
