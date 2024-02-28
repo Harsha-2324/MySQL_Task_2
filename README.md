@@ -23,7 +23,6 @@
   <img width="50" />
   </div>
 
-***
 
 ## SQL-Workbench :
 
