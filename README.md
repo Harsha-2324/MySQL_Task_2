@@ -6,7 +6,7 @@
 
 - Click on the MYSQL TASK-2.docx file above to `Download` and view the file in which I've attached the `EER Screenshot` at the end of the document file.
 - You can also view the `EER Diagram` separately by clicking the `MySQl_Task_2_ERR.mwb` file.
-------
+
 
 ## <h2 align="left">Programming Language Used :</h2>
 
@@ -14,7 +14,7 @@
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="100" alt="html5 logo"  />
   <img width="50" />
   </div>
-------
+
 
 ## <h2 align="left">Programming Tool Used :</h2>
 
@@ -22,7 +22,7 @@
   <img src="https://cdn4.quintetsolutions.com/img/services/solutions/mysql_workbench_service_provider_india.jpg" height="100" alt="html5 logo"  />
   <img width="50" />
   </div>
-------
+
 
 ## SQL-Workbench :
 
